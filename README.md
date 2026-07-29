@@ -3,7 +3,7 @@
 This Python script (`vocaltoust.py`) generates a UST (UTAU Sequence Text) file from a vocal audio file (wav/mp3), suitable for use with DiffSinger in OpenUTAU. It transcribes the audio using Whisper, optionally aligns lyrics with Gentle, extracts pitch using Librosa, detects voiced regions, and creates a UST file with rests, notes, velocities, and flags tuned for DiffSinger.
 
 
-For autotuning Use https://github.com/SoulMelody/LibreSVIP/releases/tag/v2.8.0 for ustx to tlp conversion and Tunelab Q for diffsingers
+For autotuning Use Tunelab Q for diffsingers (not working since i'm in middle of making a tune lab exporter for this ermmm)
 
 ## Features
 
